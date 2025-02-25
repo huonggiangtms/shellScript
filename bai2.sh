@@ -11,6 +11,6 @@ if [ -d $dir ]; then
         fi
     done
 else 
-echo "$dir không tồn tại"
+echo "$dir không tồn tại!"
 exit 1
 fi
